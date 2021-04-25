@@ -1,0 +1,10 @@
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\bin\Debug\mini_cas_v3.exe.config
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\bin\Debug\mini_cas_v3.exe
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\bin\Debug\mini_cas_v3.pdb
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\obj\Debug\mini_cas_v3.Form1.resources
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\obj\Debug\mini_cas_v3.Properties.Resources.resources
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\obj\Debug\mini_cas_v3.csproj.GenerateResource.Cache
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\obj\Debug\mini_cas_v3.exe
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\obj\Debug\mini_cas_v3.pdb
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\obj\Debug\mini_cas_v3.csprojResolveAssemblyReference.cache
+C:\Users\giuseppe\Desktop\c#\mini_cas_v3\obj\Debug\mini_cas_v3.Opzioni.resources
